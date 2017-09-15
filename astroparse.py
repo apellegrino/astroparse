@@ -69,9 +69,6 @@ def ra(string):
 
     decimal *= 15.
 
-    if sign == '-':
-        decimal *= -1.
-
     return decimal
 
 def dec(string):
