@@ -1,6 +1,7 @@
 ======
 README
 ======
+Andrew Pellegrino, 2017
 
 A simple Python module for parsing strings of astronomical coordinates.
 
