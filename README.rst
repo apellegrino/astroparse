@@ -3,7 +3,7 @@ README
 ======
 Andrew Pellegrino, 2017
 
-A simple Python module for parsing strings of astronomical coordinates.
+A simple Python module for parsing strings of astronomical coordinates into decimal degrees.
 
 Still a work in progress; feel free to suggest changes.
 
