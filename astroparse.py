@@ -60,7 +60,6 @@ def ra(string):
         "No RA match found for string \"{}\"".format(string)
                         )
 
-    sign = match.group('sign')
     hrs = float(match.group('unit'))
     min = float(match.group('min'))
     sec = float(match.group('sec'))
